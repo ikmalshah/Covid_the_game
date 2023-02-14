@@ -1,2 +1,1 @@
-# project
-project presentation
+# Covid The Game
