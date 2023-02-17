@@ -1,5 +1,5 @@
 # Covid The Game
-![main](https://user-images.githubusercontent.com/52269704/219603238-b412e600-4c83-4753-b366-d367f5e19f8c.jpg)
+<img src="https://user-images.githubusercontent.com/52269704/219603238-b412e600-4c83-4753-b366-d367f5e19f8c.jpg" width="600" height="350" />
 
 ## Gameplay Demo
 https://youtu.be/e0pX1H_a3Ck
